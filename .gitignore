@@ -1,0 +1,14 @@
+# See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
+
+# Compiled output
+/.vs
+/ToDoList.API/bin
+/ToDoList.API/Obj
+/ToDoList.Core/bin
+/ToDoList.Core/Obj
+/ToDoList.Service/bin
+/ToDoList.Service/Obj
+/ToDoList.Infrastructure/Obj
+/ToDoList.Infrastructure/bin
+
+
